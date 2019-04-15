@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <objectAnimator
+            android:propertyName="translateY"
+            android:duration="2000"
+            android:interpolator="@android:anim/linear_interpolator"
+            android:repeatCount="infinite"
+            android:repeatMode="restart"
+            android:valueFrom="-20"
+            android:valueTo="50" />
+
+</set>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_snow3_d">
+    <target
+        android:name="sun"
+        android:animation="@animator/sun_rotate" />
+    <target
+        android:name="sn1"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn2"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn3"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn4"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn5"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn6"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn7"
+        android:animation="@animator/snow_fadeout" />
+    <target
+        android:name="sn8"
+        android:animation="@animator/snow_fadeout" />
+
+
+    <target
+        android:name="snow1"
+        android:animation="@animator/snow1_transition" />
+    <target
+        android:name="snow2"
+        android:animation="@animator/snow2_transition" />
+</animated-vector>

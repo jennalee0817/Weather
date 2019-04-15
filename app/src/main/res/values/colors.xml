@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#7088A0</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="sky_day">#A0D5FF</color>
+    <color name="sky_night">#252525</color>
+    <color name="sky_cloud">#7088A0</color>
+    <color name="delete_red">#F44336</color>
+
+
+</resources>

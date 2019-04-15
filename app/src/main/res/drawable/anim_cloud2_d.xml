@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_cloud2_d">
+    <target
+        android:name="sun"
+        android:animation="@animator/sun_rotate"/>
+    <target
+        android:name="cloud"
+        android:animation="@animator/cloud_transition"/>
+</animated-vector>

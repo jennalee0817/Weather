@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_press">
+
+    <target
+        android:name="pressure_count1"
+        android:animation="@animator/pressure_fadeout" />
+    <target
+        android:name="pressure_count2"
+        android:animation="@animator/humidity_drop2_transition" />
+    <target
+        android:name="pressure_count3"
+        android:animation="@animator/humidity_drop2_transition" />
+    <target
+        android:name="pressure_count4"
+        android:animation="@animator/humidity_drop2_transition" />
+    <target
+        android:name="pressure_count5"
+        android:animation="@animator/humidity_drop2_transition" />
+    <target
+        android:name="pressure_count6"
+        android:animation="@animator/humidity_drop2_transition" />
+    <target
+        android:name="pressure_count7"
+        android:animation="@animator/humidity_drop2_transition" />
+</animated-vector>

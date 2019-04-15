@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_wind_speed">
+
+    <!--<target-->
+        <!--android:name="temp_max_arrow"-->
+        <!--android:animation="@animator/sunrise_transition"/>-->
+</animated-vector>
